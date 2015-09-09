@@ -2,7 +2,7 @@
 
 ## About
 
-This Matlab code accompanies the manuscript in submission: "Phase Unwrapping in 4D MR Flow with a 4 Dimensional Single Step Laplacian Algorithm"
+This Matlab code accompanies the manuscript: "Phase Unwrapping in 4D MR Flow with a 4 Dimensional Single Step Laplacian Algorithm"
 
 The code presented here allows the user to reproduce the results from the digital phantom experiment.
 
